@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.main{
+    margin-left: 80px;
+}
+header{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.headline{
+    border-left: 5px solid salmon;
+    padding-left: 10px;
+    border-radius: 3px;
+    margin-top: 50px;
+}
+.heading {
+    font-size: 50px;
+}
+.paragraph{
+    font-weight: 550;
+    margin: 30px 0px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 100px;
+}
+.head-part{
+    width: 600px;
+}
+.image-1{
+    width: 50%;
+    padding-left: 60px;
+    margin-top: -20px;
+}
+.my-button{
+    text-decoration: none;
+    border: 2px solid orangered;
+    background-color: orangered;
+    border-radius: 4px;
+    padding: 5px 10px;
+    color: white;
+}
+.orange{
+    color: orange;
+}
+/* .mission{
+    background-repeat: no-repeat;
+    margin-left: 30px;
+    background-image: url('image/dream-bg.png');
+    background-size: 20%;
+} */
+
+.card{
+    display: flex;
+    padding: 0px 100px 50px 100px;
+    margin-bottom: 100px;
+    
+}
+.misssion-part{
+    padding: 15px;
+    background-color:rgba(211, 77, 206, 0.192);
+    border-radius: 20px;
+    margin: 10px;
+    height: 250px;
+    width: 200px;
+}
+.visssion-part{
+    padding: 15px;
+    background-color:rgba(27, 117, 158, 0.329);
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: 50px;
+    height: 250px;
+    width: 200px;
+}
+.goals-part{
+    padding: 15px;
+    background-color:rgba(52, 37, 92, 0.192);
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: 50px;
+    height: 250px;
+    width: 200px;
+}
+.card-img{
+    width: 30%;
+    text-align: left;
+}
+.mission-heading{
+    text-align: center;
+}
+.coding{
+    display: flex;
+    padding-right: 300px;
+    margin-top: 150px;
+}
+.team-member{
+    margin-top: 150px;
+}
+img{
+    width: 80%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30PX 0;
+    margin-top: 70px;
+    font-family: 'Luxurious Roman', cursive;
+}
